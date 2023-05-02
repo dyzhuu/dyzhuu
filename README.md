@@ -1,4 +1,4 @@
-Computer Science and Statistics at the University of Auckland
+Computer Science and Statistics student at the University of Auckland
 <!--
 **dyzhuu/dyzhuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
